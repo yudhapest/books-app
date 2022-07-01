@@ -2,3 +2,4 @@
 
 =============================
 Menambah fitur Fingeprint atau authentication
+///TODO: Kurang menambah fingeprint
