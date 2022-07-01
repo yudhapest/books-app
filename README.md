@@ -2,4 +2,3 @@
 
 =============================
 Menambah fitur Fingeprint atau authentication
-Menambah data user
